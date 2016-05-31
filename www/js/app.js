@@ -13,6 +13,7 @@ app.run(function ($ionicPlatform) {
 	});
 });
 
+//testing git for dev.. this is the test change in order to commit
 
 app.controller('PredictionController', function ($scope, $timeout) {
 
