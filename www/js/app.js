@@ -14,6 +14,16 @@ app.run(function ($ionicPlatform) {
 });
 
 //testing git for dev.. this is the test change in order to commit ss
+// when detached head
+// [HEAD] [dev]
+// [master]
+// Step 1. check out master
+// [dev]
+// [HEAD] [master]
+// Step 2. Merge using keyboard shorcut "alt `"   > branches > merge
+// [HEAD] [master] [dev]
+
+// done. simple. easy.
 
 app.controller('PredictionController', function ($scope, $timeout) {
 
