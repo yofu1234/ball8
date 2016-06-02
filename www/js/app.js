@@ -13,6 +13,7 @@ app.run(function ($ionicPlatform) {
 	});
 });
 
+//changes made
 //testing git for dev.. this is the test change in order to commit ss
 // when detached head
 // [HEAD] [dev]
