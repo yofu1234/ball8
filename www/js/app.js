@@ -13,6 +13,7 @@ app.run(function ($ionicPlatform) {
 	});
 });
 
+//merge with new branch
 //checkout and create new branch and commit it
 
 
