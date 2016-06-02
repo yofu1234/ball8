@@ -15,7 +15,7 @@ app.run(function ($ionicPlatform) {
 
 //merge with new branch
 //checkout and create new branch and commit it
-
+//cool
 
 
 //testing git for dev.. this is the test change in order to commit ss
