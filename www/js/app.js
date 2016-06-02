@@ -13,8 +13,10 @@ app.run(function ($ionicPlatform) {
 	});
 });
 
-//another change another commit
-//changes made
+//checkout and create new branch and commit it
+
+
+
 //testing git for dev.. this is the test change in order to commit ss
 // when detached head
 // [HEAD] [dev]
