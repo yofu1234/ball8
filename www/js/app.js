@@ -13,8 +13,8 @@ app.run(function ($ionicPlatform) {
 	});
 });
 
-//testing git for dev.. this is the test change in order to commit
-//git checkout dev branch
+//testing git for dev.. this is the test change in order to commit ss
+
 app.controller('PredictionController', function ($scope, $timeout) {
 
   //Predictions that the 8 Ball can give
